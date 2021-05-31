@@ -1,1 +1,1 @@
-# 2021 React Crash Course by Brad Traversy
+# Short React Crash Course by Brad Traversy
