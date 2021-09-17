@@ -1,3 +1,3 @@
-# Short React Crash Course by Brad Traversy
+# React Crash Course
 
-<a href="https://www.youtube.com/watch?v=w7ejDZ8SWv8">Course Link</a>
+Getting started with the React
